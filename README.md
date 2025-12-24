@@ -13,7 +13,7 @@ I'm an Economics graduate from the University of Waterloo with research interest
 - Supervised by Professor Horatiu Rus
 
 ### Other Papers
-- [Colonial Institutions Paper](link-to-repo) - Empirical analysis of development outcomes among former UK colonies
+- [Colonial Institutions Paper] - Empirical analysis of development outcomes among former UK colonies
 
 ### Course Projects
 
